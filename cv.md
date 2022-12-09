@@ -1,4 +1,4 @@
-Raketskiy Artyom
+## Raketskiy Artyom
 
 My Contact Info
 
@@ -12,11 +12,11 @@ Minsk, Belarus
 
 LinkedIn: artyom-raketskiy-90a2b8245
 
-PROFILE
+## PROFILE
 
 For the last five and a half years of my life, I worked in the main department of justice of the Republic of Belarus. In my previous job, I had to deal with very different kinds of people and work under enormous pressure where I had to show enormous stress resistance, communication skills. I also have experience of working in a team. For the last two years I have been leading a team of 5 people, I was obliged to resolve all conflict issues between the parties in my sector, since in the event of complaints.
 
-Skills
+## Skills
 
 Test Management Tools: TestRail
 
@@ -32,7 +32,7 @@ Language: English-Pre-Intermediate;
 
 Russian- Native speaker.
 
-EDUCATION
+## EDUCATION
 
 Functional software testing
 
